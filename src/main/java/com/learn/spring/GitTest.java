@@ -9,5 +9,9 @@ public class GitTest {
 	public void gitdevsaving() {
 		System.out.println("we need to save this to dev so we are saving it into dev");
 	}
+	
+	public void displayDev() {
+		System.out.println("this is the dev thing we have added again in the dev");
+	}
 
 }
